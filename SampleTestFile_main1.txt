@@ -1,0 +1,1 @@
+This is Stash lecture,changes in the main file
